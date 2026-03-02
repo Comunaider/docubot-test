@@ -1,0 +1,1 @@
+export const formatDate = (d) => d.toISOString().split('T')[0];
