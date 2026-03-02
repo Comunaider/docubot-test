@@ -1,0 +1,1 @@
+function getUser(id) { return db.find(id); }
